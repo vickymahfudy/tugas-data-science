@@ -1,0 +1,11 @@
+,min,max,mean,std
+Administrative,0.0,27.0,2.32,3.32
+Administrative_Duration,0.0,3398.75,80.82,176.78
+Informational,0.0,24.0,0.5,1.27
+Informational_Duration,0.0,2549.38,34.47,140.75
+ProductRelated,0.0,705.0,31.73,44.48
+ProductRelated_Duration,0.0,63973.52,1194.75,1913.67
+BounceRates,0.0,0.2,0.02,0.05
+ExitRates,0.0,0.2,0.04,0.05
+PageValues,0.0,361.76,5.89,18.57
+SpecialDay,0.0,1.0,0.06,0.2
