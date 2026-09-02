@@ -1,0 +1,5 @@
+feature_a,feature_b,correlation
+Administrative,Administrative_Duration,0.6
+Informational,Informational_Duration,0.62
+ProductRelated,ProductRelated_Duration,0.86
+BounceRates,ExitRates,0.91

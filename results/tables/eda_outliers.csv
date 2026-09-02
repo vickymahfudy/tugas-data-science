@@ -1,0 +1,11 @@
+feature,q1,q3,iqr,lower_bound,upper_bound,n_outliers,pct_outliers
+Administrative,0.0,4.0,4.0,-6.0,10.0,404,3.3
+Administrative_Duration,0.0,93.26,93.26,-139.88,233.14,1172,9.5
+Informational,0.0,0.0,0.0,0.0,0.0,2631,21.3
+Informational_Duration,0.0,0.0,0.0,0.0,0.0,2405,19.5
+ProductRelated,7.0,38.0,31.0,-39.5,84.5,987,8.0
+ProductRelated_Duration,184.14,1464.16,1280.02,-1735.89,3384.19,961,7.8
+BounceRates,0.0,0.02,0.02,-0.03,0.04,1551,12.6
+ExitRates,0.01,0.05,0.04,-0.04,0.1,1099,8.9
+PageValues,0.0,0.0,0.0,0.0,0.0,2730,22.1
+SpecialDay,0.0,0.0,0.0,0.0,0.0,1251,10.1

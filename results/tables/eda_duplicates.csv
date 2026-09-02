@@ -1,0 +1,5 @@
+metric,value
+total_rows,12330.0
+duplicate_rows,125.0
+duplicate_pct,1.01
+rows_involved_in_duplication,201.0
