@@ -16,3 +16,6 @@ __pycache__/
 
 # Data (opsional besar; uncomment jika ingin exclude dataset mentah)
 # data/*.csv
+
+# Catatan kerja internal, tidak perlu ikut ke repo publik
+notebooks/AUDIT_METODOLOGI.md
