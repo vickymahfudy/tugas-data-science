@@ -1,0 +1,5 @@
+,Accuracy,Precision,TPR (Recall),F1-Score,TNR,MCC,auROC,auPR,Precision (weighted),F1-Score (weighted)
+Replikasi Murni dari Paper (konteks),0.8835,0.6035,0.7185,0.656,0.9137,0.5898,0.9225,0.7037,0.8936,0.8875
+Baseline Terkoreksi (Assignment #2),0.8854,0.6091,0.722,0.6608,0.9153,0.5955,0.9194,0.6956,0.8951,0.8892
+Improved Preprocessing (E3),0.8835,0.6011,0.7325,0.6604,0.9111,0.5951,0.918,0.6843,0.8952,0.888
+Final Tuned Pipeline,0.8737,0.5688,0.7587,0.6502,0.8948,0.584,0.921,0.7055,0.8936,0.8808

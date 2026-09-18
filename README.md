@@ -17,7 +17,10 @@ Online Shoppers Purchasing Intention Dataset (UCI ML Repository, id=468), 12.330
 ```
 Replikasi_Paper/
 ├── data/            # Dataset (diunduh otomatis dari UCI)
-├── notebooks/       # Notebook per tahap (01_download_data, 02_eda, dst)
+├── notebooks/       # Notebook per tahap: 01_download_data, 02_eda,
+│                    # 03_pure_replication (replikasi murni tanpa koreksi, utk pembanding),
+│                    # 04_preprocessing_split, 05_modeling_evaluation (Tugas #2, terkoreksi),
+│                    # 06_pipeline_improvements (Tugas #3)
 ├── src/             # Kode reusable (data_utils.py, preprocessing.py, dst)
 ├── results/
 │   ├── tables/      # Hasil tabel (CSV)
