@@ -1,0 +1,21 @@
+,mean |SHAP|,% total
+PageValues,2.1271,41.6
+Month_Nov,0.5568,10.9
+Month_May,0.4777,9.3
+ExitRates,0.4067,7.9
+Administrative,0.2813,5.5
+BounceRates,0.28,5.5
+ProductRelated,0.2027,4.0
+VisitorType_New_Visitor,0.1641,3.2
+Month_Mar,0.1346,2.6
+ProductRelated_Duration,0.1043,2.0
+Informational,0.0752,1.5
+Administrative_Duration,0.0749,1.5
+Weekend,0.0713,1.4
+SpecialDay,0.0466,0.9
+Informational_Duration,0.0293,0.6
+Month_Dec,0.027,0.5
+Month_Sep,0.0221,0.4
+Month_Feb,0.0214,0.4
+Month_Oct,0.0134,0.3
+VisitorType_Returning_Visitor,0.0,0.0

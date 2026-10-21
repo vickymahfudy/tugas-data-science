@@ -1,0 +1,7 @@
+Kasus,train_idx,Diskretisasi LIME,LIME top-3,Peringkat PageValues di LIME,Peringkat PageValues di SHAP,R2 surrogate lokal
+FP paling yakin,8390,kuartil (default),Informational <= -0.40 (+0.104) | Month_Feb <= 0.00 (+0.101) | Month_May <= 0.00 (+0.091),13,1,0.28
+FP paling yakin,8390,desil,Informational <= -0.40 (+0.197) | Month_Feb <= 0.00 (+0.127) | Month_May <= 0.00 (+0.115),19,1,0.362
+FP paling yakin,8390,tanpa diskretisasi,PageValues (+0.048) | Month_Nov (+0.020) | ProductRelated (-0.017),1,1,0.224
+FN paling yakin,5335,kuartil (default),Browser <= 2.00 (+0.054) | Informational > -0.40 (-0.048) | Administrative > 0.50 (-0.027),17,1,0.274
+FN paling yakin,5335,desil,-0.40 < Informational <= 0.38 (-0.217) | Month_Feb <= 0.00 (+0.119) | Administrative > 1.40 (-0.103),14,1,0.249
+FN paling yakin,5335,tanpa diskretisasi,PageValues (+0.023) | Administrative (-0.023) | Month_Nov (+0.016),1,1,0.179

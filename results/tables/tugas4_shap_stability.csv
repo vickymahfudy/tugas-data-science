@@ -1,0 +1,25 @@
+,final mean|SHAP|,OOF mean|SHAP| (rata-rata fold),rank per fold (min-max),dipilih di n fold
+PageValues,2.1271,2.1375,1-1,5
+Month_Nov,0.5568,0.472,2-4,5
+Month_May,0.4777,0.4518,2-4,5
+ExitRates,0.4067,0.4163,3-4,5
+Administrative,0.2813,0.2472,5-7,5
+BounceRates,0.28,0.22,6-8,5
+ProductRelated,0.2027,0.1694,7-11,5
+VisitorType_New_Visitor,0.1641,0.1295,8-15,5
+Month_Mar,0.1346,0.1903,6-9,5
+ProductRelated_Duration,0.1043,0.0886,9-14,5
+Informational,0.0752,0.072,13-14,5
+Administrative_Duration,0.0749,0.0998,10-13,5
+Weekend,0.0713,0.1021,10-12,4
+SpecialDay,0.0466,0.0328,15-20,5
+Informational_Duration,0.0293,0.0363,12-18,5
+Month_Dec,0.027,0.0695,11-14,2
+Month_Sep,0.0221,0.0299,15-18,3
+Month_Feb,0.0214,0.0197,17-19,5
+Month_Oct,0.0134,0.0224,16-20,5
+VisitorType_Returning_Visitor,0.0,0.0357,14-20,5
+Browser,,0.0964,11-11,1
+Month_June,,0.0123,19-20,3
+Region,,0.1617,9-9,1
+TrafficType,,0.2688,5-5,1
