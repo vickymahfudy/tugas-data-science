@@ -1,0 +1,9 @@
+,Jumlah
+"Flagged (Cleanlab, pipeline D0)",636
+Flagged di kedua versi (D0 dan I0),416
+Reviewed,20
+Keep,11
+Corrected,0
+Removed,2
+Unresolved,7
+Retained di dataset (Keep + Unresolved),18
