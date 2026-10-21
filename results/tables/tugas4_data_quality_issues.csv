@@ -1,0 +1,8 @@
+id,masalah,bukti_train,status,tindakan
+a,Class imbalance,"Positif 15,48% (1.336 dari 8.631)",Ditindaklanjuti,Step 3: none vs scale_pos_weight vs SMOTE
+b,Duplikat,"126 baris, 52 grup, 74 salinan ekstra; semua Revenue=0, tanpa label konflik; profil sesi bounce 1 halaman",Tidak diubah,Dilarang dihapus dan wajar (sesi bounce identik dari user berbeda); efek ke CV dicek di Step 7
+c,Durasi 0 padahal jumlah halaman > 0,"ProductRelated 509, Informational 160, Administrative 82; tidak ada kebalikan/negatif",Tidak diubah,Konsisten dengan perhitungan durasi Google Analytics (halaman terakhir tanpa durasi)
+d,Sesi bounce murni dengan Revenue=1,"2 dari 492 sesi Bounce=Exit=0,2 (durasi 0, PageValues 0)",Ditindaklanjuti,"Kandidat label mencurigakan, diverifikasi di Step 4 (Cleanlab)"
+e,PageValues sangat dominan,"Rate beli 57,0% jika > 0 vs 3,7% jika = 0; korelasi 0,49",Ditindaklanjuti,"Potensi leakage-adjacent, diinvestigasi di Step 6/7 (SHAP)"
+f,Level kategori langka,"TrafficType 7 level < 30 baris (63), Browser 3 (13), OS 3 (23)",Tidak diubah,"Dicatat sebagai segmen berisiko, dicek bila muncul di misklasifikasi"
+g,Penulisan kategori tidak seragam,Month 'June' vs singkatan 3 huruf,Tidak diubah,"Kosmetik, one-hot tetap konsisten"

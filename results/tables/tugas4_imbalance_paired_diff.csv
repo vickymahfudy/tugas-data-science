@@ -1,0 +1,7 @@
+Varian,Metrik,Mean selisih vs D0,Std selisih,Fold lebih baik dari D0
+I0 Tanpa treatment,MCC,-0.0212,0.0145,1/5
+I0 Tanpa treatment,Macro F1,-0.0099,0.0077,1/5
+I0 Tanpa treatment,auPR,0.0125,0.0169,3/5
+I1 Class weighting (spw),MCC,-0.012,0.0219,2/5
+I1 Class weighting (spw),Macro F1,-0.0166,0.0113,0/5
+I1 Class weighting (spw),auPR,0.0094,0.0092,4/5
