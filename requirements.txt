@@ -8,3 +8,6 @@ seaborn
 jupyter
 nbconvert
 ucimlrepo
+cleanlab==2.9.0
+shap==0.51.0
+lime==0.2.0.1

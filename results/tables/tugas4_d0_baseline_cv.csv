@@ -1,0 +1,12 @@
+,Mean,Std
+Accuracy,0.894,0.0069
+Precision,0.6343,0.0217
+TPR (Recall),0.747,0.0276
+F1-Score,0.6857,0.019
+TNR,0.9209,0.0075
+MCC,0.6257,0.0228
+auROC,0.9265,0.0076
+auPR,0.7307,0.0233
+Precision (weighted),0.9029,0.006
+F1-Score (weighted),0.8974,0.0064
+Macro F1,0.811,0.0115
