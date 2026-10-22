@@ -1,0 +1,4 @@
+,MCC,Macro F1,F1-Score,Precision,TPR (Recall),TNR,auPR,auROC,Accuracy,Precision (weighted),F1-Score (weighted)
+D0 Baseline Tugas #3,0.5955,0.7959,0.6608,0.6091,0.722,0.9153,0.6956,0.9194,0.8854,0.8951,0.8892
+D2 Dataset final,0.5994,0.7977,0.664,0.6096,0.729,0.9146,0.7036,0.9207,0.8859,0.8962,0.89
+Selisih (D2 - D0),0.0039,0.0017,0.0032,0.0005,0.007,-0.0006,0.008,0.0013,0.0005,0.0011,0.0007
